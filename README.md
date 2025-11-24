@@ -104,7 +104,8 @@ set_property -dict { PACKAGE_PIN A8 IOSTANDARD LVCMOS33 } [get_ports {an[3]}]
 ```
 ## FPGA Implementation Output
 
-<img width="782" height="540" alt="image" src="https://github.com/user-attachments/assets/6d549830-34b0-4916-9370-fc680e71f881" />
+![WhatsApp Image 2025-11-09 at 17 32 07_1a5bf558](https://github.com/user-attachments/assets/76024cf5-6524-4d74-bbf5-31279c8b1b8e)
+
 
 
 ---
